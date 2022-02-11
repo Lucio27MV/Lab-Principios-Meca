@@ -1,6 +1,6 @@
 # Lab-Principios-Meca
 
-Tareas y proyectos de la materia Bases de Datos No Relacionales
+Archivos y proyectos de la materia Laboratorio de Principios de Mecatrónica
 
 Primavera 2022
 
