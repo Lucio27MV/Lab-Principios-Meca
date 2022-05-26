@@ -6,10 +6,16 @@ Primavera 2022
 
 ITAM
 
-**Integrantes del equipo:**
+**Integrantes del equipo (prácticas):**
 
 - Carla Lorena Caballero Enciso
-- Alejandro Bermúdez Guillen
+- Alejandro Roberto Bermúdez Guillen
+- Luciano Montes de Oca Villa
+
+**Integrantes del equipo (proyecto final):**
+
+- Alejandro Roberto Bermúdez Guillen
+- Guillermo Caballero Woodward
 - Luciano Montes de Oca Villa
 
 **Profesor:**
