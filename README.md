@@ -1,6 +1,6 @@
 # Laboratorio de Principios de Mecatrónica
 
-Prácticas del laboratorio de Principios de Mecatrónica
+Prácticas y proyecto final del laboratorio de Principios de Mecatrónica
 
 Primavera 2022
 
